@@ -15,3 +15,4 @@ Here is a growing collection of resources and helpful commands to know the worki
 - [git push](./commands/PUSH.md)
 - [git pull](./Commands/Pull.md)
 - [git status](./Commands/Status.md)
+- [git clone](./commands/Clone.md)
